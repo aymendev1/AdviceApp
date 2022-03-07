@@ -1,0 +1,9 @@
+@media only screen and (max-width: 375px) {
+  .Card {
+    width: 300px;
+    height: fit-content;
+  }
+  .card-content h1 {
+    font-size: 25px;
+  }
+}
